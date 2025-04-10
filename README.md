@@ -20,6 +20,9 @@ JavaScript básico para interatividade
 Design 100% responsivo
 Font Awesome (ícones)
 
+➡️[Visite a página](Your site is live at https://zacgenius.github.io/tourism-test-lp/)
+
+
 ## 🎨 Principais Características
 ✔️ Design moderno e limpo
 ✔️ Totalmente responsivo
